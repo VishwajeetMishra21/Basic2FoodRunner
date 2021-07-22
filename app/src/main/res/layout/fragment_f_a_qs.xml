@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".files.fragment.FAQsFragment"
+    android:background="#ffffff">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/Q1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Q1) How the training is are you enjoying ?"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/splashBackground"/>
+
+        <TextView
+            android:id="@+id/A1"
+            android:layout_below="@+id/Q1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A-1 Traning is good but some important content is not present in it.Remaining it it good content and more cool and videos."
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            android:padding="8dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/Q2"
+            android:layout_below="@+id/A1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Q2) How the training is are you enjoying ?"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/splashBackground"/>
+
+        <TextView
+            android:id="@+id/A2"
+            android:layout_below="@+id/Q2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A-2 Traning is good but some important content is not present in it.Remaining it it good content and more cool and videos."
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            android:padding="8dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/Q3"
+            android:layout_below="@+id/A2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Q3) How the training is are you enjoying ?"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/splashBackground"/>
+
+        <TextView
+            android:id="@+id/A3"
+            android:layout_below="@+id/Q3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A-3 Traning is good but some important content is not present in it.Remaining it it good content and more cool and videos."
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            android:padding="8dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/Q4"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/A3"
+            android:layout_height="wrap_content"
+            android:text="Q4) How the training is are you enjoying ?"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/splashBackground"/>
+
+        <TextView
+            android:id="@+id/A4"
+            android:layout_below="@+id/Q4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A-4 Traning is good but some important content is not present in it.Remaining it it good content and more cool and videos."
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            android:padding="8dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/Q5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5) How the training is are you enjoying ?"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_below="@+id/A4"
+            android:textColor="@color/splashBackground"/>
+
+        <TextView
+            android:id="@+id/A5"
+            android:layout_below="@+id/Q5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A-5 Traning is good but some important content is not present in it.Remaining it it good content and more cool and videos."
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            android:padding="8dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/Q6"
+            android:layout_below="@+id/A5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Q6) How the training is are you enjoying ?"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/splashBackground"/>
+
+        <TextView
+            android:id="@+id/A6"
+            android:layout_below="@+id/Q6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A-6 Traning is good but some important content is not present in it.Remaining it it good content and more cool and videos."
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            android:padding="8dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/Q7"
+            android:layout_below="@+id/A6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Q7) How the training is are you enjoying ?"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/splashBackground"/>
+
+        <TextView
+            android:id="@+id/A7"
+            android:layout_below="@+id/Q6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A-1 Traning is good but some important content is not present in it.Remaining it it good content and more cool and videos."
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            android:padding="8dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+
+
+
+    </RelativeLayout>
+
+
+</ScrollView>

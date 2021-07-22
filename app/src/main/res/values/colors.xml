@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F62020</color>
+    <color name="colorPrimaryDark">#F62020</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="splashBackground">#F62020</color>
+    <color name="loginBackground">#FF5139</color>
+    <color name="color_white">#ffffff</color>
+</resources>
